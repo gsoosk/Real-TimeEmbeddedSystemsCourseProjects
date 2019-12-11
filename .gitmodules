@@ -1,0 +1,15 @@
+[submodule "ComputerAssignment1"]
+	path = ComputerAssignment1
+	url = https://github.com/gsoosk/IntrodutionToMotors
+[submodule "ComputerAssignment2"]
+	path = ComputerAssignment2
+	url = https://github.com/gsoosk/BoardsIntraction
+[submodule "ComputerAssignment3"]
+	path = ComputerAssignment3
+	url = https://github.com/gsoosk/Spinner
+[submodule "ComputerAssignment4"]
+	path = ComputerAssignment4
+	url = https://github.com/YasamanJafari/CPS_CA4
+[submodule "MainProject"]
+	path = MainProject
+	url = https://github.com/gsoosk/RealTimeRoboticArm
